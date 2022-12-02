@@ -18,7 +18,7 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
-//get Category by id
+//get Category  id
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
     if (id === '08') {
