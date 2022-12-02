@@ -30,7 +30,7 @@ app.get('/category/:id', (req, res) => {
     }
 })
 
-//get courses by id
+//get courses by
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const selectedCourses = courses.find(c => c._id === id);
