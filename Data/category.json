@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Programming Courses"
+    },
+    {
+        "id": "02",
+        "name": "Math Courses"
+    },
+    {
+        "id": "03",
+        "name": "EEE Courses"
+    },
+    {
+        "id": "04",
+        "name": "BBA Courses"
+    },
+    {
+        "id": "05",
+        "name": "English Courses"
+    },
+    {
+        "id": "06",
+        "name": "General Science Courses"
+    },
+    {
+        "id": "08",
+        "name": "All courses"
+    }
+]
